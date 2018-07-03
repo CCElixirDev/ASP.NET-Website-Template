@@ -1,0 +1,6 @@
+c:\users\addle\source\repos\TestWebsite\TestWebsitesDAL\bin\Debug\netstandard2.0\TestWebsitesDAL.deps.json
+c:\users\addle\source\repos\TestWebsite\TestWebsitesDAL\bin\Debug\netstandard2.0\TestWebsitesDAL.dll
+c:\users\addle\source\repos\TestWebsite\TestWebsitesDAL\obj\Debug\netstandard2.0\TestWebsitesDAL.csprojResolveAssemblyReference.cache
+c:\users\addle\source\repos\TestWebsite\TestWebsitesDAL\obj\Debug\netstandard2.0\TestWebsitesDAL.csproj.CoreCompileInputs.cache
+c:\users\addle\source\repos\TestWebsite\TestWebsitesDAL\obj\Debug\netstandard2.0\TestWebsitesDAL.AssemblyInfoInputs.cache
+c:\users\addle\source\repos\TestWebsite\TestWebsitesDAL\obj\Debug\netstandard2.0\TestWebsitesDAL.AssemblyInfo.cs
